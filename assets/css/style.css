@@ -17,6 +17,7 @@ body {
 p.dev{
   color: #ffffff;
   /* font-size: 180%; */
+  font-weight:bold;
 }
 
 a {
@@ -41,6 +42,7 @@ h6 {
 h1.ti{
   letter-spacing: 30px;
   text-align: center;
+  font-weight:bold;
 }
 
 /*--------------------------------------------------------------
