@@ -777,7 +777,7 @@ section {
 --------------------------------------------------------------*/
 .testimonials {
   padding: 80px 0;
-  background-color: #ffffff;
+  background-color: #aaaaaa;
   background-position: center center;
   background-size: cover;
   position: relative;
@@ -790,7 +790,7 @@ section {
   right: 0;
   top: 0;
   bottom: 0;
-  background: rgba(14, 16, 17, 0.7);
+  /* background: rgba(14, 16, 17, 0.7); */
 }
 
 .testimonials .section-header {
@@ -822,15 +822,15 @@ section {
 }
 
 .testimonials .testimonial-item h4 {
-  font-size: 14px;
-  color: #ddd;
+  font-size: 15px;
+  color: #ffffff;
   margin: 0 0 15px 0;
 }
 
 .testimonials .testimonial-item .quote-icon-left,
 .testimonials .testimonial-item .quote-icon-right {
   color: rgba(255, 255, 255, 0.4);
-  font-size: 26px;
+  font-size: 10px;
 }
 
 .testimonials .testimonial-item .quote-icon-left {
